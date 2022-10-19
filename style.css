@@ -1,0 +1,144 @@
+body{
+    background-color: hsl(240, 35%, 93%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 97vh;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card1{
+    background-color:hsl(31, 77%, 52%);
+    width: 300px;
+    height: 450px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.card2{
+    background-color:hsl(184, 100%, 22%);
+    width: 295px;
+    height: 450px;
+}
+
+.card3{
+    background-color:hsl(179, 100%, 13%);
+    width: 295px;
+    height: 450px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.img1{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.nome1{
+    color:white;
+    margin-top: 35px;
+    margin-left: 50px;
+    margin-right: 0px;
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 35px;
+}
+.texto1{
+    color: hsla(0, 0%, 100%, 0.75);
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 0px;
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.img2{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.nome2{
+    color: white;
+    margin-top: 30px;
+    margin-left: 45px;
+    margin-right: 0px;
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 40px;
+}
+.texto2{
+    color: hsla(0, 0%, 100%, 0.75);
+    margin-top: 30px;
+    margin-left: 45px;
+    margin-right: 0px;
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.img3{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.nome3{
+    color: white;
+    margin-top: 30px;
+    margin-left: 45px;
+    margin-right: 0px;
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 40px;
+
+}
+.texto3{
+    color: hsla(0, 0%, 100%, 0.75);
+    margin-top: 30px;
+    margin-left: 45px;
+    margin-right: 0px;
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.botao{
+    margin-left: 45px;
+    margin-top: 60px;
+    border-radius: 50px;
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    border: none;
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(31, 77%, 52%);
+   
+}
+
+.botao2{
+    margin-left: 45px;
+    margin-top: 60px;
+    border-radius: 50px;
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    border: none;
+    background-color: hsl(0, 0%, 95%);
+    color:hsl(184, 100%, 22%); 
+}
+
+.botao3{
+    margin-left: 45px;
+    margin-top: 60px;
+    border-radius: 50px;
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+    border: none;
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(179, 100%, 13%)
+    ;
+   
+}
